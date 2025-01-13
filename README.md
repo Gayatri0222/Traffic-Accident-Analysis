@@ -5,6 +5,6 @@ This Python project analyzes crime data using Pandas, Matplotlib, and Seaborn.Th
 The analysis uses a CSV file named traffic_accident_data.csv. This file should be placed in the root directory of the repository. The expected data includes information about Accident Rate, such as season, no of vehicle inolved, severity, cause, location, and other relevant statistics.
 
 # Analysis and Visualizations
-->Handles missing values.
-->Converts data types where necessary (e.g., date columns to datetime objects).
-->Drops irrelevant or mostly empty columns.
+->Handles missing values .
+->Converts data types where necessary (e.g., date columns to datetime objects) .
+->Drops irrelevant or mostly empty columns .

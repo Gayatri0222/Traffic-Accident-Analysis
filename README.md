@@ -26,10 +26,10 @@ The analysis uses a CSV file named traffic_accident_data.csv. This file should b
  11.  Accident by cause and severity
 
 # Usage
- Prerequisites:
- Python 3.x
- pandas
- matplotlib
- numpy
- seaborn
+  Prerequisites:
+   Python 3.x
+   pandas
+   matplotlib
+   numpy
+   seaborn
  

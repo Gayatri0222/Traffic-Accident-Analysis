@@ -22,14 +22,18 @@ The analysis uses a CSV file named traffic_accident_data.csv. This file should b
  7.  Accident severity by number of vehicles involved(Grouped by season)
  8.  Imapct of weather condition of number of vehicles
  9.  Top 10 locations with most accidents
- 10.  Severity of accidents by location
- 11.  Accident by cause and severity
+ 10. Severity of accidents by location
+ 11. Accident by cause and severity
 
 # Usage
   Prerequisites:
    Python 3.x
+   
    pandas
+   
    matplotlib
+
    numpy
+   
    seaborn
  

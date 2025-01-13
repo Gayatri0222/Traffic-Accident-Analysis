@@ -10,3 +10,26 @@ The analysis uses a CSV file named traffic_accident_data.csv. This file should b
  -> Converts data types where necessary (e.g., date columns to datetime objects) .
  
  -> Drops irrelevant or mostly empty columns .
+
+ # Exploratory Data Analysis(EDA):
+ Generates various visualizations using Matplotlib, Seaborn, providing insights into different aspects of the dataset:
+ 1. Accident severity distribution by weather condition
+ 2.  Distribution of vehicle types in accidents
+ 3.  Accident rates by day and hour
+ 4.  Vehicle type involved in severe accidents
+ 5.  Accident frequency by season and day of the week
+ 6.  Accidents by hour of the day and season
+ 7.  Accident severity by number of vehicles involved(Grouped by season)
+ 8.  Imapct of weather condition of number of vehicles
+ 9.  Top 10 locations with most accidents
+ 10.  Severity of accidents by location
+ 11.  Accident by cause and severity
+
+# Usage
+ Prerequisites:
+ Python 3.x
+ pandas
+ matplotlib
+ numpy
+ seaborn
+ 
